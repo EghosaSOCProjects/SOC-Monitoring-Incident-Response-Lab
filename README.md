@@ -159,7 +159,7 @@ IOC extraction
 
 ## Wazuh Alerts
 
-Examples investigated:
+Investigated:
 
 * Malware Detection
 * Privilege Escalation
@@ -169,7 +169,7 @@ Examples investigated:
 * Suspicious Process Creation
 * Windows Defender Alerts
 
-## Incident Response Example
+## Incident Response 
 
 Incident
 
