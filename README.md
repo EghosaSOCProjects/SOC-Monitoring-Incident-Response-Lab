@@ -28,20 +28,8 @@ The objective is to gain practical blue team experience in:
 
 # Lab Architecture
 
-                  Internet
-                      │
-             ┌────────┴────────┐
-             │                 │
-         Kali Linux      Windows 11
-        (Attacker)        (Victim)
-             │
-             │ Sysmon Logs
-             │
-      Wazuh Agent
-             │
-      Ubuntu Wazuh Server
-             │
-        SOC Analyst
+<img width="1440" height="944" alt="image" src="https://github.com/user-attachments/assets/557930a3-1f9d-4ef2-834d-45f0a90e25e6" />
+
 
 # Project Objectives
 
